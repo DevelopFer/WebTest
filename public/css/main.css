@@ -1,0 +1,20 @@
+.fabBtn{
+    border-radius: 100%;
+    padding: 0px;
+    position: absolute;
+    margin: 87px 0px 0px 0px;
+    line-height: 1rem;
+}
+
+.fabBtn > i{
+    color:"#fff";
+    font-size:80px;
+}
+
+.postcard{
+	overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    min-height: 90px;
+}
